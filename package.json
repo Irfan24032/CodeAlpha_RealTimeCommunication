@@ -1,0 +1,14 @@
+{
+  "name": "codealpha-task4-realtime-communication",
+  "version": "1.0.0",
+  "description": "CodeAlpha Task 4 real-time collaboration demo",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "better-sqlite3": "^12.11.1",
+    "express": "^5.1.0",
+    "express-session": "^1.18.2",
+    "socket.io": "^4.8.1"
+  }
+}
